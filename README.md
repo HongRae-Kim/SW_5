@@ -9,8 +9,8 @@
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/acaupg">
-        <img src="https://github.com/acaupg.png?size=100" width="100px;" alt=""/><br /><sub><b>김성열</b></sub></a><br />
+      <td align="center"><a href="https://github.com/GithubOfHermes">
+        <img src="https://github.com/GithubOfHermes.png?size=100" width="100px;" alt=""/><br /><sub><b>김성열</b></sub></a><br />
       </td>
       <td align="center"><a href="https://github.com/HongRae-Kim">
         <img src="https://github.com/HongRae-Kim.png?size=100" width="100px;" alt=""/><br /><sub><b>김홍래</b></sub></a><br />
